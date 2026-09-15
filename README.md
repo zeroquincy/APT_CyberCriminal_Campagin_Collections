@@ -1,7 +1,7 @@
 # APT & Cybercriminals Campaign Collection
 
-This is collections of APT and cybercriminals campaign. 
-Please fire issue to me if any lost APT/Malware events/campaigns. 
+ These are collections of APT and cybercriminal campaigns. 
+Please file an issue if you find any missing APT/malware events or campaigns.
 
 🤷The password of malware samples could be 'virus' or 'infected'
 
